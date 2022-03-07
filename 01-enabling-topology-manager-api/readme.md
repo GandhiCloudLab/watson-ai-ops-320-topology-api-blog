@@ -1,4 +1,4 @@
-# Enabling Topology Manager API
+# AIOps v3.2 - Topology API Part 1 : Enabling Topology Manager API
 
 This document explains about how to enable and use Topology Manager API service in IBM Cloud Pak for Watson AIOps.
 

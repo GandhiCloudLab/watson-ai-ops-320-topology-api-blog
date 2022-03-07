@@ -1,4 +1,4 @@
-#  Create, Link and Delete topology nodes using API
+#  AIOps v3.2 - Topology API Part 3 : Create, Link and Delete topology nodes using API
 
 This document explains about how to create, link and delete topology nodes using Topology Manager API.
 
@@ -232,7 +232,7 @@ The link might have been deleted between Payment and Cash Node.
 
 ### 7.1. Delete Payment Node 
 
-1. Run the below command to create Payment Node.
+1. Run the below command to Delete Payment Node.
 
 ```
 sh 07-delete-payment.sh

@@ -1,4 +1,4 @@
-# Create Topology for BookInfo App
+# AIOps v3.2 - Topology API Part 2 : Create BookInfo App Topology using API
 
 This document explains about how to create Topology for BookInfo App using
 Topology Manager API.

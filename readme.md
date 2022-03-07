@@ -12,7 +12,7 @@ Topology Manager API in IBM Cloud Pak for Watson AIOps.
     </tr>
     <tr>
         <td>1</td>
-        <td>Enable Topology Manager API service  </td>
+        <td>Enabling Topology Manager API </td>
         <td>How to enable and use Topology Manager API service in IBM Cloud Pak for Watson AIOps </td>
         <td>
 
@@ -21,7 +21,7 @@ Topology Manager API in IBM Cloud Pak for Watson AIOps.
     </tr>
         <tr>
         <td>2</td>
-        <td>Create Topology for BookInfo App </td>
+        <td>Create BookInfo App Topology using API </td>
         <td>How to create Topology for BookInfo App using
 Topology Manager API</td>
         <td>
@@ -31,7 +31,7 @@ Topology Manager API</td>
     </tr>
     <tr>
         <td>3</td>
-        <td>Create, Link and Delete topology nodes  </td>
+        <td>Create, Link and Delete topology nodes using API  </td>
         <td>How to create, link and delete topology nodes using Topology Manager API.</td>
         <td>
 
