@@ -1,0 +1,64 @@
+/target/*
+.appsody-spring-trigger
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+
+### VS Code ###
+.vscode/
+
+### maven..... ###
+
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+!README.md
+
+/node_modules/*
+
+
+.DS_store
+.DS_Store
+
+
+mqjms.log*
+
+app.jar
+
+a.txt
+b.txt
+
+mqjms.log
+mqjms.log.0
+mqjms.log.0.1
+mqjms.log.0.2
+
+non-sharable
+
+datacollector
+# j2se_datacollector.tgz
+deployment/03-mcm-dev/build/a.txt
+deployment/03-mcm-dev/build/test.sh
