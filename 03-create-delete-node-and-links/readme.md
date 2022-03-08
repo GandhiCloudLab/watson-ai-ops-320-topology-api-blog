@@ -2,6 +2,8 @@
 
 This document explains about how to create, link and delete topology nodes using Topology Manager API.
 
+The shell scripts used in this documentation is available here [files](./files).
+
 Lets us create 2 nodes and create the links between them as like this.
 
 <img src="images/image1.png">
